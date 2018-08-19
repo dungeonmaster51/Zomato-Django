@@ -1,0 +1,4 @@
+*.pyc
+staticfile/
+env/
+.env
